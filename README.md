@@ -1,5 +1,11 @@
 # Sunton_ESP32-8048S043
 
+
+This project have not been touched ort updated in a while please check https://github.com/pixelwave/Sunton-ESP32-8048S043 for newer stuff.
+or my other project https://github.com/zingo/CrazyCapyTime using this HW.
+
+
+
 This project would be a good starting point if you want to use this devboard, just clone it
 and rename it and do your own stuff.
 
